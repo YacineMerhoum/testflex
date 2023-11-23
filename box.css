@@ -1,0 +1,105 @@
+.titreflex {
+    text-align: center;
+    font-size: 60px;
+    background-color: gold;
+    transition-duration: 3s;
+}
+
+.test3 {
+    text-align:left justify;
+    width: 200px;
+    border: solid 1px rgb(91, 86, 86);
+    border-top: solid 10px rgb(243, 114, 114);
+    width: 350px;
+    margin: 50px;
+    box-shadow: #888;
+    padding: 20px;
+    min-height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: oblique;
+    border-radius: 40px;
+    transition-duration: 7s;
+    
+    
+}
+
+
+
+.test {
+    border: 5px solid black;
+    display: flex;
+    justify-content:space-between;
+  
+}
+
+
+.A {
+
+    background-color: green;
+    height: 150px; width: 150px;
+    
+    
+
+    
+}
+
+.B {
+    background-color: blue;
+    height: 150px; width: 150px;
+    transition-duration: 10s;
+   
+  
+
+
+}
+
+
+.C {
+
+    background-color: red;
+    height: 150px; width: 150px;
+    
+}
+
+.D {
+
+    background-color: yellow;
+    height: 150px; width: 150px;
+    transition-duration: 3s;
+}
+
+
+/* DEUXIEME CONTAINER */
+
+
+.test2 {
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.E {
+
+    background-color: darkorange;
+    height: 150px; width: 150px;
+
+    
+}
+
+.F {
+    background-color:aquamarine;
+    height: 150px; width: 150px;
+    
+  
+
+
+}
+
+
+.G {
+
+    background-color:blueviolet;
+    height: 150px; width: 150px;
+    
+}
